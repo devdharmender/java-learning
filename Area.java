@@ -6,6 +6,6 @@ public class Area {
     float red = sc.nextFloat();
     float areaofcircle = 3.14f * red * red;
     System.out.println(areaofcircle);
+    sc.close();
   }
-  
 }
